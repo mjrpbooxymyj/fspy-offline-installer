@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Camera+Matching-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 fSpy Free Installer** — fSpy is a free, open-source still image camera matcher that determines a camera's position, rotation, and focal length from a photograph of a scene with known geometry. Works without internet access, no account required. Full offline installation.
+**💻 fSpy Free Installer** — fSpy is a free, open-source camera matching application that calculates a camera's position, rotation, and focal length from a single photograph. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About fSpy
 
-fSpy is a free, open-source still image camera matcher that determines a camera's position, rotation, and focal length from a photograph of a scene with known geometry. Import the camera data into Blender, Maya, or other 3D applications to perfectly align 3D objects with background photographs. fSpy is essential for visual effects artists and architectural visualization artists who need photorealistic integration.
+fSpy is a free, open-source camera matching application that calculates a camera's position, rotation, and focal length from a single photograph. It exports camera data to Blender, making it easy to integrate 3D elements into photographs with correct perspective.
 
 ---
 
 ## ❌ Problem: fSpy is hard to access
 
-- **Still Images Only** — Works with photographs; video camera matching requires different tools
-- **Geometry Knowledge Required** — Accurate results require reference points with known angles (90°)
-- **Application Integration** — Requires companion plugins for seamless import to 3D applications
-- **Niche Use** — Specialized tool primarily useful in VFX and architectural visualization
+- **Specialized Use Case** — Only useful for compositing 3D into photos; not a general 3D tool
+- **Manual Process** — Requires manual placement of perspective guides on the image
+- **Blender-Centric** — Primary export format is Blender; other engines require conversion
+- **No Video Support** — Works only with single still images; no video camera matching
 
 ---
 
@@ -121,7 +121,7 @@ fSpy is a free, open-source still image camera matcher that determines a camera'
 
 ---
 
-**fSpy Free Installer** — fSpy is a free, open-source still image camera matcher that determines a camera's position, rotation, and focal length from a photograph of a scene with known geometry. Install without internet connection today!
+**fSpy Free Installer** — fSpy is a free, open-source camera matching application that calculates a camera's position, rotation, and focal length from a single photograph. Install without internet connection today!
 
 <div align="center">
 
